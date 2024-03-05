@@ -1,18 +1,33 @@
-# Vue 3 + TypeScript + Vite
+# Learning Repository
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This repository contains a collection of simple projects that document my learning journey. Each project is in a separate branch to keep the codebase organized and focused.
 
-## Recommended IDE Setup
+## Table of Contents
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+1. [Introduction](#introduction)
+2. [Project List](#project-list)
+3. [How to Use](#how-to-use)
+4. [Contributing](#contributing)
+5. [License](#license)
 
-## Type Support For `.vue` Imports in TS
+## Introduction
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+In this repository, I'm documenting my learning progress by implementing simple projects. These projects cover a range of topics and serve as practical exercises to reinforce my understanding.
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+## Project List
 
-1. Disable the built-in TypeScript Extension
-   1. Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-   2. Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+Below is a list of projects available in this repository:
+
+1. **Project 1: Todo List** - This is a simple Todo list app CRUD
+2. **Project 2 : Countries Catalog** - This is a simple catalog for countries using an This api https://restcountries.com
+   
+Each project is located in its respective branch. You can switch to a specific branch to view the code and documentation for that project.
+
+## How to Use
+
+To explore the projects in this repository, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Navigate to the project of interest by switching to its respective branch.
+3. Read the README.md file in the branch to understand the project and its objectives.
+4. Explore the project code and accompanying documentation.
