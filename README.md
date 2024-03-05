@@ -1,30 +1,38 @@
-# React + TypeScript + Vite
+---
+runme:
+  id: 01HR89P6V8TJWH1D4VY5AYVJ4A
+  version: v3
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Learning Repository
 
-Currently, two official plugins are available:
+This repository contains a collection of simple projects that document my learning journey. Each project is in a separate branch to keep the codebase organized and focused.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
 
-## Expanding the ESLint configuration
+1. [Introduction](#introduction)
+2. [Project List](#project-list)
+3. [How to Use](#how-to-use)
+4. [Contributing](#contributing)
+5. [License](#license)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Introduction
 
-- Configure the top-level `parserOptions` property like this:
+In this repository, I'm documenting my learning progress by implementing simple projects. These projects cover a range of topics and serve as practical exercises to reinforce my understanding.
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## Project List
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Below is a list of projects available in this repository:
+
+1. **Project 1: Todo List** - This is a simple Todo list app CRUD
+   
+Each project is located in its respective branch. You can switch to a specific branch to view the code and documentation for that project.
+
+## How to Use
+
+To explore the projects in this repository, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Navigate to the project of interest by switching to its respective branch.
+3. Read the README.md file in the branch to understand the project and its objectives.
+4. Explore the project code and accompanying documentation.
