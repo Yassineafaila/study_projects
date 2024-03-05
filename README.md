@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HR89P6V8TJWH1D4VY5AYVJ4A
-  version: v3
----
-
 # Learning Repository
 
 This repository contains a collection of simple projects that document my learning journey. Each project is in a separate branch to keep the codebase organized and focused.
